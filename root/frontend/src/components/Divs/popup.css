@@ -1,0 +1,51 @@
+input {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.Masking-div {
+    background-color: rgba(165, 148, 148, 0.5);
+    position: fixed;
+    top:0px;
+    left:0px;
+    width: 100vw;
+    height: 100vh;
+    margin: 0px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Popup-Content {
+    width: 20vw;
+    height: 40vh;
+    background-color: rgb(155, 214, 216);
+    border-radius: 10px;
+    justify-content: left;
+}
+
+.Popup-formfield{
+    width: 80%;
+    height: 80px;
+}
+
+.forms {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    justify-content: left;
+}
+
+.form-label {
+    width: 100%;
+    height: 20px;
+    font-size: 16px;
+    float: left;
+}
+
+.form-text {
+    width: auto;
+    height: 20px;
+    font-size: 16px;
+    text-align: left;
+}

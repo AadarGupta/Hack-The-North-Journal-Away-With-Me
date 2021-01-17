@@ -1,0 +1,39 @@
+body {
+  background: #efede4;
+}
+
+.title-bg {
+  background: #eaad99;
+}
+
+.page-padding {
+  padding: 20px 40px;
+}
+
+.journalEntry{
+  background-color: #3caaad;
+  width: 500px;
+  padding: 10px;
+  margin: 20px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 8px gray;
+  color: white;
+}
+
+.journalTitle{
+  font-size: x-large;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  width: auto;
+
+}
+
+.journalText{
+  font-size: large;
+  margin-bottom: 15px;
+}
+
+.journalDate{
+  color: grey;
+}
